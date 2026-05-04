@@ -1,6 +1,6 @@
 # HGLC
 
-Quick Start Environment setup for DGLNet 
+Quick Start Environment setup for HGLC 
 
 ## Environment
 
