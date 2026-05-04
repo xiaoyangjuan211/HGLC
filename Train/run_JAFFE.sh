@@ -1,1 +1,0 @@
-python Train/train.py --dataset JAFFE --num_classes 7 --lr 5e-5 --batch-size 32 --label-smoothing 0.1
